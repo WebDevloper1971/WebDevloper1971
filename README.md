@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="" width="600" height="300">
 
-<!--
-**WebDevloper1971/WebDevloper1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### I am ***Vedant*** an aspiring Full Stack Developer pursuing Masters In Computer Science ( MCA )  
+###### from Department of Computer Science - Sant Gadge Baba Amravati University  
 
-Here are some ideas to get you started:
+## See My Portfolio : [Portfolio]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack I worked with
+
+- [x] Java
+    
+- [x] React
+   
+- [x] MySQL / MongoDB / PostGreSQL
+      
+- [x] C ++
