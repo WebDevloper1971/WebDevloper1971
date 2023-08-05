@@ -16,23 +16,27 @@
 
 >### Tech Stack I worked with
 
-- Java ♨️
+- Java  ♨️
     
-- React ⚛️
-   
-- MySQL / MongoDB / PostGreSQL 💾
+- React  ⚛️
 
-- Spring Boot 🍃
+- HTML / CSS / Javascript  💻
+   
+- MySQL / MongoDB / PostGreSQL  💾
+
+- Spring Boot  🍃
+
+- Basic UI / UX / Designing  🎨🖌️
 
 <br>
 <br>
 
 >### Check Out My Projects :
 
-###### [***Various Types of Quizes***]()
+- ###### [***Online Exam System***]()
 
-###### [***Google Docs Clone***]()
+- ###### [***Google Docs Clone***]()
 
-###### [******]()
+
 
 
