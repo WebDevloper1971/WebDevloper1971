@@ -1,16 +1,38 @@
-<img src="" width="600" height="300">
+<img src=""  height="300">
 
-###### I am ***Vedant*** an aspiring Full Stack Developer pursuing Masters In Computer Science ( MCA )  
+<br>
+
+>### About Me :
+###### I am ***Vedant*** an ambitious and aspiring Full Stack Developer pursuing Masters In Computer Science ( MCA )  
 ###### from Department of Computer Science - Sant Gadge Baba Amravati University  
 
-## See My Portfolio : [Portfolio]()
+<br>
+<br> 
 
-#### Tech Stack I worked with
+>### See My Portfolio : [Portfolio]()
 
-- [x] Java
+<br>
+<br>
+
+>### Tech Stack I worked with
+
+- Java ♨️
     
-- [x] React
+- React ⚛️
    
-- [x] MySQL / MongoDB / PostGreSQL
-      
-- [x] C ++
+- MySQL / MongoDB / PostGreSQL 💾
+
+- Spring Boot 🍃
+
+<br>
+<br>
+
+>### Check Out My Projects :
+
+###### [***Various Types of Quizes***]()
+
+###### [***Google Docs Clone***]()
+
+###### [******]()
+
+
