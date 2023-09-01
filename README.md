@@ -1,4 +1,4 @@
-![Main-Img](https://github.com/WebDevloper1971/WebDevloper1971/blob/main/bg1.png)
+![Main-Img](https://github.com/WebDevloper1971/WebDevloper1971/blob/main/GitHub_Bg.png)
 
 <br>
 
