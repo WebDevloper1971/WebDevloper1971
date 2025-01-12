@@ -1,3 +1,4 @@
+![banner](/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <p align="left">A highly motivated fresher with a Master's degree in Computer Science, skilled in Java Full Stack development. Proficient in Java, Spring Boot, Next.js, and MySQL, for building dynamic and responsive web applications. Adept at both front-end and back-end development, with a keen interest in new technologies and a passion for coding. Looking for an opportunity to leverage my skills and knowledge in a dynamic work environment to contribute to innovative projects and grow as a developer. Ready to embrace new challenges and collaborate with a team to deliver high-quality software solutions.</p>
 
